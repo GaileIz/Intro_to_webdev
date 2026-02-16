@@ -11,3 +11,23 @@ body {
 .heading {
     color: #fabd2f;
 }
+
+.navbar-dark .navbar-brand {
+    color: #fabd2f;
+}
+
+.navbar-dark .navbar-brand:hover {
+    color: #fe9019;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #fe9019;
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #fabd2f;
+}
+
+.navbar-dark .navbar-nav .nav-link.active {
+    color: #fe9019;
+}
